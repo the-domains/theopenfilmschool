@@ -1,0 +1,28 @@
+name: theopenfilmschool
+favicon: null
+layout_spectrum: 0.26417555031366646
+typography_spectrum: 0.27372882165946066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3780095430556685
+  lightness: 0.5231494577601552
+  saturation: 0.4549145868513733
+  rhythmicContrast: 0.17625091574154794
+purpose: []

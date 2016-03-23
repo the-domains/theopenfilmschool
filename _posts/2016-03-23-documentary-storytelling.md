@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Documentary Storytelling
-datePublished: '2016-03-23T08:31:10.168Z'
-dateModified: '2016-03-23T08:30:12.444Z'
-title: ''
+description: ''
+datePublished: '2016-03-23T08:32:54.453Z'
+dateModified: '2016-03-23T08:32:34.016Z'
+title: Documentary Storytelling
 author: []
 sourcePath: _posts/2016-03-23-documentary-storytelling.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: documentary-storytelling/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Documentary Storytelling**

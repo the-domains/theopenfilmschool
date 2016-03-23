@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "The Open Film School is a platform for aspiring filmmakers to develop their skills .To learn the art and craft of filmmaking. \_It offers intensive workshops for beginners to advanced level to build their skill base. \_The Workshops will be conducted by experienced artists from the industry.\_"
-datePublished: '2016-03-23T07:21:57.166Z'
-dateModified: '2016-03-23T07:21:50.489Z'
+description: "The Open Film School is a platform for aspiring filmmakers to develop their skills .To learn the art and craft of filmmaking. \_It offers intensive workshops for beginners and initiates their journey into the dream world of cinema. \_The Workshops will be conducted by experienced artists from the industry.\_"
+datePublished: '2016-03-23T07:36:37.937Z'
+dateModified: '2016-03-23T07:30:50.227Z'
 title: Welcome to The Open Film School
 author: []
+sourcePath: _posts/2016-03-23-welcome-to-the-open-film-school.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-welcome-to-the-open-film-school.md
-published: true
 _type: Blurb
 
 ---

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Open Film School]]></title>
         <description><![CDATA[The Open Film School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 10:19:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 10:19:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c8ac28-47df-4732-b29b-ee6867b8fe4a.jpg">]]></description>
-            <link>undefined7828104e-6f80-40ec-91a4-a2b796ca6b39/index.html</link>
+            <title><![CDATA[Screenwriting]]></title>
+            <description><![CDATA[<article><h1>Screenwriting</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c8ac28-47df-4732-b29b-ee6867b8fe4a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theopenfilmschool/7828104e-6f80-40ec-91a4-a2b796ca6b39/index.html</link>
             <guid isPermaLink="false">7828104e-6f80-40ec-91a4-a2b796ca6b39</guid>
-            <pubDate>Wed, 23 Mar 2016 10:18:21 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 10:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

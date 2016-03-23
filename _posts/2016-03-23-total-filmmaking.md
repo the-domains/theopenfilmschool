@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Open Film School is offering a unique On the project training workshop.
-datePublished: '2016-03-23T07:40:43.317Z'
-dateModified: '2016-03-23T07:40:41.948Z'
+datePublished: '2016-03-23T08:03:12.984Z'
+dateModified: '2016-03-23T08:02:59.549Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-03-23-total-filmmaking.md
@@ -29,7 +29,9 @@ The Open Film School is offering a unique On the project training workshop.
 
 The participants will get an opportunity to work on a live project aimed at various film festivals. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography , Sound Recording, Editing and Online film promotion. An ideal learning space for beginner filmmakers.
 
-Participants will be assigned various positions on the project and will be given a credit on the final film. The month long training workshop will culminate into a short film and will be screened at various festivals. How to Read a film /Production process/ Day 1
+Participants will be assigned various positions on the project and will be given a credit on the final film. The month long training workshop will culminate into a short film and will be screened at various festivals. 
+
+**How to Read a film /Production process/ Day 1**
 
  Film as an Art
 
@@ -73,7 +75,7 @@ Participants will be assigned various positions on the project and will be given
 
  Writing the Screenplay
 
- Concept finalisation Camera basics Day 5/6
+**Concept finalisation Camera basics Day 5/6**
 
  The camera  Types of cameras
 
@@ -103,7 +105,7 @@ Participants will be assigned various positions on the project and will be given
 
  Planning your storyboard
 
-Actors and casting for the film Day 8
+**Actors and casting for the film Day 8**
 
  Casting for traits, Skills
 
@@ -125,7 +127,7 @@ Actors and casting for the film Day 8
 
  Cutting objectively
 
-Shooting and editing the project film Day 10/11/12
+**Shooting and editing the project film Day 10/11/12**
 
 This will be a paid training workshop on a live project. Fees Rs. 25000
 

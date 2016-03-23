@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Open Film School]]></title>
         <description><![CDATA[The Open Film School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 08:29:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 08:31:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c52bc747-652c-4fc2-b2d3-ede67b5f9069.jpg">]]></description>
-            <link>undefineddocumentary-storytelling/index.html</link>
+            <link>https://thegrid.ai/theopenfilmschool/documentary-storytelling/index.html</link>
             <guid isPermaLink="false">15fc4a36-b36c-4fc4-8111-ce2c8f269987</guid>
-            <pubDate>Wed, 23 Mar 2016 08:29:09 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 08:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

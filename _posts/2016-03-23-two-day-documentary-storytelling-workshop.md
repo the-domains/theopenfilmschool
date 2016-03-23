@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Documentary filmmaking is a world of learning and seeking. Documentaries are the perfect place for young filmmakers to begin learning their craft. That’s because fiction film is about re-creating a version of reality, tuned to the story’s dramatic necessities. Documentaries, by contrast, require only that students choose the subject matter and capture what is already there.Watching documentaries is a wonderful way to expand your awareness of the world around you. It forces us to view a specific problem from an array of different perspectives.'
-datePublished: '2016-03-23T07:59:55.140Z'
-dateModified: '2016-03-23T07:59:46.093Z'
+datePublished: '2016-03-23T08:10:25.989Z'
+dateModified: '2016-03-23T08:04:12.200Z'
 title: Two Day Documentary Storytelling Workshop
 author: []
 sourcePath: _posts/2016-03-23-two-day-documentary-storytelling-workshop.md
@@ -22,9 +22,9 @@ url: two-day-documentary-storytelling-workshop/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/924ad712-7114-4cdf-aa93-38332980557a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16bce7cf-59da-4196-9649-e267e22c9d6d.jpg)
 
-# Two Day Documentary Storytelling Workshop
+Two Day Documentary Storytelling Workshop
 
 Documentary filmmaking is a world of learning and seeking. Documentaries are the perfect place for young filmmakers to begin learning their craft. That's because fiction film is about re-creating a version of reality, tuned to the story's dramatic necessities. Documentaries, by contrast, require only that students choose the subject matter and capture what is already there.Watching documentaries is a wonderful way to expand your awareness of the world around you. It forces us to view a specific problem from an array of different perspectives.
 

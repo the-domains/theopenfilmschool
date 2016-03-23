@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Open Film School is offering a unique On the project training workshop.
-datePublished: '2016-03-23T07:39:10.229Z'
-dateModified: '2016-03-23T07:38:31.210Z'
+datePublished: '2016-03-23T07:40:43.317Z'
+dateModified: '2016-03-23T07:40:41.948Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-03-23-total-filmmaking.md
@@ -41,7 +41,7 @@ Participants will be assigned various positions on the project and will be given
 
  Broad classification of films  Who makes it happen- the talent , the production process
 
-Writing for film/ screen play structure/ screenplay format Day 2/3
+**Writing for film/ screen play structure/ screenplay format Day 2/3**
 
  How is film writing different
 
@@ -59,7 +59,7 @@ Writing for film/ screen play structure/ screenplay format Day 2/3
 
  Types of Scripts
 
-Understanding your characters Day 4
+**Understanding your characters Day 4**
 
  The Hero's journey
 
@@ -93,7 +93,7 @@ Understanding your characters Day 4
 
  Setting up the shot
 
-Story Boarding Day 7
+**Story Boarding Day 7**
 
  Why story boarding/ your first visuals
 
@@ -115,7 +115,7 @@ Actors and casting for the film Day 8
 
  Rehearsals
 
-Editing techniques and formats Day 9
+**Editing techniques and formats Day 9**
 
  Manipulation of time
 

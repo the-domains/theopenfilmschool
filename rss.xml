@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Open Film School]]></title>
         <description><![CDATA[The Open Film School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:53:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 11:06:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Screenwriting]]></title>
+            <description><![CDATA[<article><h1>Screenwriting</h1><p>Screenwriting Foundation</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a426473-4d8c-433b-bd1c-6e518f1e4240.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theopenfilmschool/screenwriting-foundation/index.html</link>
+            <guid isPermaLink="false">db52f032-d690-4aed-9e7f-66589bb0b610</guid>
+            <pubDate>Thu, 24 Mar 2016 11:06:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fralk, no 79/1, 3rd floor ,Aishwarya sampoorna,Basavangudi ,Bangalore]]></title>
             <description><![CDATA[<article><h1>Fralk, no 79/1, 3rd floor ,Aishwarya sampoorna,Basavangudi ,Bangalore</h1><p>Contact Us</p></article>]]></description>
-            <link>undefinedcontact-us/index.html</link>
+            <link>https://thegrid.ai/theopenfilmschool/contact-us/index.html</link>
             <guid isPermaLink="false">02c10296-0b1c-4de2-8b63-b2f08a6a65f9</guid>
             <pubDate>Thu, 24 Mar 2016 10:52:42 GMT</pubDate>
         </item>

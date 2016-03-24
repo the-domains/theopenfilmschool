@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Screenwriting Foundation
-datePublished: '2016-03-24T11:06:49.474Z'
-dateModified: '2016-03-24T10:30:19.767Z'
-title: Screenwriting
+description: ''
+datePublished: '2016-03-24T11:09:37.425Z'
+dateModified: '2016-03-24T11:08:57.943Z'
+title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-03-24-screenwriting-foundation.md
 published: true
@@ -22,7 +22,7 @@ url: screenwriting-foundation/index.html
 _type: Article
 
 ---
-Screenwriting Foundation
+# Screenwriting Foundation
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a426473-4d8c-433b-bd1c-6e518f1e4240.jpg)
 
 Screenwriting is both an art and technique, a screenwriter writes in images and metaphors. She creates a blueprint for a film. What is eventually seen as a masterpiece on the screen and is worth millions has to start off on paper and pencil in the hand of a creative screenwriter.

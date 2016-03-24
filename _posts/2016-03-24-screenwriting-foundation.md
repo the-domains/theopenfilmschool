@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Screenwriting Foundation
-datePublished: '2016-03-24T07:22:44.456Z'
-dateModified: '2016-03-24T07:22:33.255Z'
-title: ''
+datePublished: '2016-03-24T10:21:49.469Z'
+dateModified: '2016-03-24T07:23:18.419Z'
+title: Screenwriting
 author: []
 sourcePath: _posts/2016-03-24-screenwriting-foundation.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: screenwriting-foundation/index.html
-_type: Article
+_type: WebPage
 
 ---
 Screenwriting Foundation

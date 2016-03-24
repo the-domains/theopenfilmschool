@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: The Open Film School is offering a unique On the project training workshop.
-datePublished: '2016-03-23T09:32:13.494Z'
-dateModified: '2016-03-23T09:08:07.868Z'
+datePublished: '2016-03-24T06:32:28.438Z'
+dateModified: '2016-03-24T06:32:27.572Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-03-23-total-filmmaking.md
@@ -41,7 +41,7 @@ Participants will be assigned various positions on the project and will be given
 
  Montage and Mise -- en -- scene  A collaborative art
 
- Broad classification of films  Who makes it happen- the talent , the production process
+ Broad classification of films  Who makes it happen- the talent , the    production process
 
 **Writing for film/ screen play structure/ screenplay format Day 2/3**
 

@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 'Screenwriting is both an art and technique, a screenwriter writes in images and metaphors. She creates a blueprint for a film. What is eventually seen as a masterpiece on the screen and is worth millions has to start off on paper and pencil in the hand of a creative screenwriter.'
-datePublished: '2016-03-24T11:12:00.103Z'
-dateModified: '2016-03-24T11:10:49.432Z'
+datePublished: '2016-03-24T11:41:45.406Z'
+dateModified: '2016-03-24T11:39:55.623Z'
 title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-03-24-screenwriting-foundation.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: screenwriting-foundation/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Screenwriting Foundation
@@ -53,21 +53,13 @@ DAY 2 :
 
 • ******How movies handle story**
 
-• ****
+**• The three main approaches to Screenplay Structure:  Three Act Structure, Sequence Structure & The Hero's Journey**
 
-**The three main approaches to Screenplay Structure:  Three Act Structure, Sequence Structure & The Hero's Journey**
+**• Screenplay format and types of scripts**
 
-• ****
+**• ​The Log Line**
 
-**Screenplay format and types of scripts**
-
-• ****
-
-**​The Log Line**
-
-• ****
-
-**Getting started with your Script**
+**• Getting started with your Script**
 
 ********
 

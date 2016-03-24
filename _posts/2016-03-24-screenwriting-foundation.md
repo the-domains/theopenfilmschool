@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Screenwriting is both an art and technique, a screenwriter writes in images and metaphors. She creates a blueprint for a film. What is eventually seen as a masterpiece on the screen and is worth millions has to start off on paper and pencil in the hand of a creative screenwriter.'
-datePublished: '2016-03-24T11:10:39.977Z'
-dateModified: '2016-03-24T11:10:26.402Z'
+datePublished: '2016-03-24T11:12:00.103Z'
+dateModified: '2016-03-24T11:10:49.432Z'
 title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-03-24-screenwriting-foundation.md

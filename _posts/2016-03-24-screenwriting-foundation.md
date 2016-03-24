@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Screenwriting Foundation
-datePublished: '2016-03-24T07:22:24.192Z'
-dateModified: '2016-03-24T07:21:23.763Z'
+datePublished: '2016-03-24T07:22:44.456Z'
+dateModified: '2016-03-24T07:22:33.255Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-screenwriting-foundation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-screenwriting-foundation.md
-published: true
 url: screenwriting-foundation/index.html
 _type: Article
 

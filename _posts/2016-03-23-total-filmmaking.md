@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: The Open Film School is offering a unique On the project training workshop.
-datePublished: '2016-03-24T06:32:28.438Z'
-dateModified: '2016-03-24T06:32:27.572Z'
+datePublished: '2016-03-24T11:41:27.090Z'
+dateModified: '2016-03-24T11:37:02.510Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-03-23-total-filmmaking.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: total-filmmaking/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Total Filmmaking

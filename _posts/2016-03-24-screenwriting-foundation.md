@@ -1,67 +1,59 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-24T19:28:57.598Z'
-dateModified: '2016-03-24T19:27:14.111Z'
+description: "Screenwriting is the soul of filmmaking. It all begins with a screenplay a story that is written as a blueprint for a film.\_"
+datePublished: '2016-03-25T07:03:19.768Z'
+dateModified: '2016-03-25T07:01:49.963Z'
 title: Screenwriting Foundation
 author: []
+sourcePath: _posts/2016-03-24-screenwriting-foundation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-screenwriting-foundation.md
-published: true
 url: screenwriting-foundation/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Screenwriting Foundation
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92f6896-a734-4ffb-b055-26d8760439eb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be4e3245-e34b-4de5-8877-07b98c84e10b.png)
 
 Screenwriting is the soul of filmmaking. It all begins with a screenplay a story that is written as a blueprint for a film. 
 
-This Workshop covers two major perspectives of Scriptwriting: 
+This Workshop covers two major perspectives of Screenwriting: 
 
-**Scriptwriting - The Technique **
+Scriptwriting - The Technique 
 
-****
+Scriptwriting - An Art
 
-**Scriptwriting - An Art**
+DAY 1 :
 
-****
+• It all begins with a story
 
-**DAY 1 :**
+• What is a story and why do we tell them?  
 
-• ******It all begins with a story**
+• Why are movie stories special?
 
-• ******What is a story and why do we tell them?  **
-
-• ******Why are movie stories special?**
-
-•**The difference between Story and Plot**
-
-****
+•The difference between Story and Plot
 
 DAY 2 :
 
-• ******How movies handle story**
+• How movies handle story
 
-• ******The three main approaches to Screenplay Structure:  Three Act Structure, Sequence Structure & The Hero's Journey**
+• The three main approaches to Screenplay Structure:  Three Act Structure, Sequence Structure & The Hero's Journey
 
-• ******Screenplay format and types of scripts**
+• Screenplay format and types of scripts
 
-• ******The Log Line**
+• The Log Line
 
-• ******Getting started with your Script**
-
-********
+• Getting started with your Script
 
 includes: 
 

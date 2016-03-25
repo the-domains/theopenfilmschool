@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Documentary filmmaking is a world of learning and seeking. Documentaries are the perfect place for young filmmakers to begin learning their craft. That’s because fiction film is about re-creating a version of reality, tuned to the story’s dramatic necessities. Documentaries, by contrast, require only that students choose the subject matter and capture what is already there.Watching documentaries is a wonderful way to expand your awareness of the world around you. It forces us to view a specific problem from an array of different perspectives.'
-datePublished: '2016-03-25T06:18:23.961Z'
-dateModified: '2016-03-25T06:18:23.349Z'
+datePublished: '2016-03-25T08:46:20.777Z'
+dateModified: '2016-03-25T08:22:19.322Z'
 title: Documentary Storytelling
 author: []
 sourcePath: _posts/2016-03-23-documentary-storytelling.md

@@ -1,6 +1,6 @@
 name: The  Open  Film  School
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25361
 typography_spectrum: 0
 title: The Open Film School
 cta:
@@ -23,7 +23,7 @@ color:
     - '#475300'
     - '#d7a500'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []

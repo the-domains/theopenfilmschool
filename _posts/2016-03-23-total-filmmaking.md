@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: The Open Film School is offering a unique On the project training workshop.
-datePublished: '2016-03-24T11:41:27.090Z'
-dateModified: '2016-03-24T11:37:02.510Z'
+description: 'The Open Film School is offering a unique On the project training workshop.Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography , Sound Recording, Editing and Online film promotion. '
+datePublished: '2016-03-25T06:19:55.770Z'
+dateModified: '2016-03-25T06:19:16.203Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-03-23-total-filmmaking.md
@@ -25,9 +25,7 @@ _type: Article
 # Total Filmmaking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93ac82bf-f746-4b46-b148-b101bcbf5d6e.jpg)
 
-The Open Film School is offering a unique On the project training workshop.
-
-The participants will get an opportunity to work on a live project aimed at various film festivals. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography , Sound Recording, Editing and Online film promotion. An ideal learning space for beginner filmmakers.
+The Open Film School is offering a unique On the project training workshop.Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography , Sound Recording, Editing and Online film promotion. The participants will get an opportunity to work on a live project aimed at various film festivals. An ideal learning space for beginner filmmakers.
 
 Participants will be assigned various positions on the project and will be given a credit on the final film. The month long training workshop will culminate into a short film and will be screened at various festivals. 
 

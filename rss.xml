@@ -4,7 +4,7 @@
         <description><![CDATA[The Open Film School]]></description>
         <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 07:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 08:42:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Total Filmmaking]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/theopenfilmschool/documentary-storytelling/index.html</link>
             <guid isPermaLink="false">619ade7e-8ada-47e1-a45c-fcb62c00ce59</guid>
             <pubDate>Fri, 25 Mar 2016 06:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Screenwriting Foundation]]></title>
+            <description><![CDATA[<article><h1>Screenwriting Foundation</h1><p>Screenwriting is the soul of filmmaking. It all begins with a screenplay a story that is written as a blueprint for a film. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c450874a-b52b-40c0-a993-984dab8e1da4.png"></article>]]></description>
+            <link>https://thegrid.ai/theopenfilmschool/screenwriting-foundation/index.html</link>
+            <guid isPermaLink="false">00050b1b-9167-4982-8835-a199db2b7f0c</guid>
+            <pubDate>Fri, 25 Mar 2016 08:42:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

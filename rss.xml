@@ -4,7 +4,7 @@
         <description><![CDATA[The Open Film School]]></description>
         <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 10:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 15:55:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Screenwriting Foundation]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/theopenfilmschool/careers-and-opportunities-in-filmmaking-free-seminar/index.html</link>
             <guid isPermaLink="false">da3c8c73-406a-4af0-8949-ddd59d423cc6</guid>
             <pubDate>Sat, 26 Mar 2016 10:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Contact Us </p>]]></description>
-            <link>https://thegrid.ai/theopenfilmschool/bc5a2e30-7673-48db-b781-990358ff12fb/index.html</link>
-            <guid isPermaLink="false">bc5a2e30-7673-48db-b781-990358ff12fb</guid>
-            <pubDate>Fri, 25 Mar 2016 10:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

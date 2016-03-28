@@ -4,7 +4,7 @@
         <description><![CDATA[The Open Film School]]></description>
         <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 08:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 14:27:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Screenwriting Foundation]]></title>
@@ -28,8 +28,14 @@
             <pubDate>Fri, 25 Mar 2016 08:46:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/theopenfilmschool/5076132a-e049-4325-8ed0-6bae133045b2/index.html</link>
+            <guid isPermaLink="false">5076132a-e049-4325-8ed0-6bae133045b2</guid>
+            <pubDate>Mon, 28 Mar 2016 14:27:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road Basavangudi, Bangalore</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9147d296ed5b02946addf8d8d908019a0bd94386.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9147d296ed5b02946addf8d8d908019a0bd94386.jpg"></article>]]></description>
             <link>https://thegrid.ai/theopenfilmschool/contact-us/index.html</link>
             <guid isPermaLink="false">72f8c6cf-f6c8-4fc8-97cb-c7a370fe5bbc</guid>
             <pubDate>Mon, 28 Mar 2016 08:30:44 GMT</pubDate>

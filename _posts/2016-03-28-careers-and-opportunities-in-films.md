@@ -2,7 +2,6 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
@@ -27,8 +26,8 @@ description: >-
 
   Attend a free session with The Open Film School and Fralk to understand the
   various careers and opportunities.
-datePublished: '2016-03-29T06:53:10.188Z'
-dateModified: '2016-03-29T06:52:59.996Z'
+datePublished: '2016-03-29T08:17:27.907Z'
+dateModified: '2016-03-29T07:30:00.107Z'
 title: Careers and Opportunities in Films
 author: []
 sourcePath: _posts/2016-03-28-careers-and-opportunities-in-films.md
@@ -42,7 +41,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbbdd77-37ef-4da9-b1f4-96520f253ee2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68879a7e-2256-4fa0-8f32-0c9a2126020c.jpg)
 
 So where should one begin from? How should you be prepared? And, Can anyone be a filmmaker?
 Filmmaking is complex, expensive, and also time consuming. It can also be a big business. Potential filmmakers spend many years perfecting their profession while studying all aspects of this very popular art form.

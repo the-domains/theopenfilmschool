@@ -2,8 +2,9 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: >-
   So where should one begin from? How should you be prepared? And, Can anyone be
@@ -26,8 +27,8 @@ description: >-
 
   Attend a free session with The Open Film School and Fralk to understand the
   various careers and opportunities.
-datePublished: '2016-03-29T08:17:27.907Z'
-dateModified: '2016-03-29T07:30:00.107Z'
+datePublished: '2016-04-09T10:16:32.256Z'
+dateModified: '2016-04-09T09:53:16.842Z'
 title: Careers and Opportunities in Films
 author: []
 sourcePath: _posts/2016-03-28-careers-and-opportunities-in-films.md

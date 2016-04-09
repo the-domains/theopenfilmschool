@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'Screenwriting is the soul of filmmaking. It all begins with a screenplay a story that is written as a blueprint for a film. Have you ever walked out of a movie theater and said, “I think I could probably write something better than that”? In fact, a great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the big screen, means you’re composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers. '
-datePublished: '2016-03-25T10:07:10.516Z'
-dateModified: '2016-03-25T10:03:45.406Z'
+description: 'A story that is written as a bluepa great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the big screen, means you’re composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers. '
+datePublished: '2016-04-09T11:09:32.658Z'
+dateModified: '2016-04-09T10:36:17.864Z'
 title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-03-25-screenwriting-foundation.md
@@ -19,13 +19,13 @@ publisher:
   url: null
   favicon: null
 url: screenwriting-foundation/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Screenwriting Foundation
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1292191-b6ef-4455-b26f-32c13de708e4.png)
 
-Screenwriting is the soul of filmmaking. It all begins with a screenplay a story that is written as a blueprint for a film. Have you ever walked out of a movie theater and said, "I think I could probably write something better than that"? In fact, a great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the big screen, means you're composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers. 
+Screenwriting is the soul of filmmaking. It all begins with a screenplay, a story written as a blueprint for a film. Have you ever walked out of a movie theater and said, "I think I could probably write something better than that"? In fact, a great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the big screen, means you're composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers. 
 
 This Workshop covers two major perspectives of Screenwriting: 
 

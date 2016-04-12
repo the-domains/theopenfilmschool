@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'A story that is written as a bluepa great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the big screen, means you’re composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers. '
-datePublished: '2016-04-09T11:09:32.658Z'
-dateModified: '2016-04-09T10:36:17.864Z'
+datePublished: '2016-04-12T16:21:44.597Z'
+dateModified: '2016-04-12T16:21:18.816Z'
 title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-03-25-screenwriting-foundation.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: screenwriting-foundation/index.html
 _type: Blurb
 
 ---

@@ -1,35 +1,30 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: |-
-  Total
-  Filmmaking
-datePublished: '2016-04-13T14:13:12.785Z'
-dateModified: '2016-04-13T14:13:04.780Z'
-title: Total Filmmaking
+description: "Participants will be assigned various\npositions on the\_project\_and will be given a\_credit on\_the\nfinal film. The\_month long\_training workshop will culminate into a\_short\nfilm and will be\_screened at various festivals."
+datePublished: '2016-04-13T15:39:39.083Z'
+dateModified: '2016-04-13T15:18:53.325Z'
+title: "Total Filmmaking\_\_"
 author: []
+sourcePath: _posts/2016-04-13-total-filmmaking.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-total-filmmaking.md
-published: true
 url: total-filmmaking/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/064c5667-9101-4c59-b8c9-829c55f3f245.jpg)
+# Total Filmmaking  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/064c5667-9101-4c59-b8c9-829c55f3f245.jpg)
 
 ****
-
-**Total
-Filmmaking**
 
 Participants will be assigned various
 positions on the project and will be given a credit on the

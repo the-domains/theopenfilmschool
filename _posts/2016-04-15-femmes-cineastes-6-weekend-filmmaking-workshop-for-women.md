@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Did you know that of all the directors, writers, editors, cinematographers, executive producers and\_"
-datePublished: '2016-04-15T10:36:14.869Z'
-dateModified: '2016-04-15T10:36:05.214Z'
+datePublished: '2016-04-15T14:11:36.102Z'
+dateModified: '2016-04-15T14:10:03.851Z'
 title: Femmes Cinéastes - 6 Weekend Filmmaking Workshop For Women
 author: []
 sourcePath: _posts/2016-04-15-femmes-cineastes-6-weekend-filmmaking-workshop-for-women.md

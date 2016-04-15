@@ -5,36 +5,36 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'The Open Film School is offering a unique On the project training workshop. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography , Sound Recording, Editing and Online film promotion. The participants will get an opportunity to work on a live project aimed at various film festivals. An ideal learning space for beginner filmmakers.'
-datePublished: '2016-04-15T07:47:53.511Z'
-dateModified: '2016-04-15T07:43:50.623Z'
+description: ''
+datePublished: '2016-04-15T14:18:14.384Z'
+dateModified: '2016-04-15T14:17:43.635Z'
 title: Total Filmmaking
 author: []
+sourcePath: _posts/2016-04-15-total-filmmaking.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-total-filmmaking.md
-published: true
 url: total-filmmaking/index.html
 _type: Article
 
 ---
-Total Filmmaking
+# Total Filmmaking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f933cde7-22ba-4b45-8d4a-017bedae23b1.jpg)
 
 ****
 
-**T**he Open Film School is offering a
-unique On the project training workshop. Over
-a month participants will receive training on :
-Screenwriting, Story boarding, casting, Direction,
-cinematography , Sound Recording, Editing and Online film
-promotion. The participants will get an opportunity to work on
-a live project aimed at various film festivals. An
-ideal learning space for beginner filmmakers.
+> **T**he Open Film School is offering a
+> unique On the project training workshop. Over
+> a month participants will receive training on :
+> Screenwriting, Story boarding, casting, Direction,
+> cinematography,  Sound Recording, Editing and Online film
+> promotion. The participants will get an opportunity to work on
+> a live project aimed at various film festivals. An
+> ideal learning space for beginner filmmakers.
 
 Participants will be assigned various
 positions on the project and will be given a credit on the

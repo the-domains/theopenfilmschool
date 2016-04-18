@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-18T10:02:48.242Z'
-dateModified: '2016-04-18T10:02:34.566Z'
+datePublished: '2016-04-18T10:03:15.333Z'
+dateModified: '2016-04-18T10:02:52.564Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-total-filmmaking.md

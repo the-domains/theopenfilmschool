@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T14:18:14.384Z'
-dateModified: '2016-04-15T14:17:43.635Z'
-title: Total Filmmaking
+datePublished: '2016-04-18T10:02:48.242Z'
+dateModified: '2016-04-18T10:02:34.566Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-15-total-filmmaking.md
 published: true
@@ -27,162 +27,113 @@ _type: Article
 
 ****
 
-> **T**he Open Film School is offering a
-> unique On the project training workshop. Over
-> a month participants will receive training on :
-> Screenwriting, Story boarding, casting, Direction,
-> cinematography,  Sound Recording, Editing and Online film
-> promotion. The participants will get an opportunity to work on
-> a live project aimed at various film festivals. An
-> ideal learning space for beginner filmmakers.
+**T**he Open Film School is offering a unique On the project training workshop. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography, Sound Recording, Editing and Online film promotion. The participants will get an opportunity to work on a live project aimed at various film festivals. An ideal learning space for beginner filmmakers.
 
-Participants will be assigned various
-positions on the project and will be given a credit on the
-final film. The month long training workshop will culminate into
-a short film and will be screened at various festivals.
+Participants will be assigned various positions on the project and will be given a credit on the final film. The month long training workshop will culminate into a short film and will be screened at various festivals.
 
 ****
 
-**How to Read a film /Production
-process/ Day 1**
+**How to Read a film /Production process/ Day 1**
 
-\* Film as an
-Art
+\* Film as an Art
 
-\* Reading art,
-Understanding Narrative
+\* Reading art, Understanding Narrative
 
-\* "Suspension
-of disbelief " and what keeps it going
+\* "Suspension of disbelief " and what keeps it going
 
-\* Montage and
-Mise -- en scene
+\* Montage and Mise en scene
 
-\*A collaborative
-art
+\*A collaborative art
 
-\* Broad
-classification of films
+\* Broad classification of films
 
-\*Who makes it
-happen- the talent , the production process
+\*Who makes it happen- the talent , the production process
 
 ****
 
-**Writing for film/ screen play
-structure/ screenplay format Day 2/3**
+**Writing for film/ screen play structure/ screenplay format Day 2/3**
 
-\* How is film
-writing different
+\* How is film writing different
 
-\* Selling your
-favourite film/ tell me the story
+\* Selling your favourite film/ tell me the story
 
-\* Why do we
-need structure (three acts)
+\* Why do we need structure (three acts)
 
-\* Shots, scenes
-, Sequences
+\* Shots, scenes , Sequences
 
 \* Subplots
 
-\* It is all
-predictable with a twist, Almost a cliché, almost
+\* It is all predictable with a twist, Almost a cliché, almost
 
-\* The
-screenplay format, why?
+\* The screenplay format, why?
 
-\* Types of
-Scripts
+\* Types of Scripts
 
 ****
 
 **Understanding your characters Day 4**
 
-\* The Hero's
-journey
+\* The Hero's journey
 
-\* Do you really
-understand your character
+\* Do you really understand your character
 
-\* Creating
-great characters
+\* Creating great characters
 
-\* Who is
-driving who? Plot driven or Character driven
+\* Who is driving who? Plot driven or Character driven
 
-\* Building your
-characters
+\* Building your characters
 
-\* Writing the
-Screenplay
+\* Writing the Screenplay
 
 ****
 
-**Concept finalisation Camera basics
-Day 5/6**
+**Concept finalisation Camera basics Day 5/6**
 
 \* The camera
 
 \*Types of cameras
 
-\* Film
-processing
+\* Film processing
 
-\* Colour
-temperature
+\* Colour temperature
 
-\* Lenses,
-aperture , ISO
+\* Lenses, aperture , ISO
 
-\* Working on
-5D,7D.....red
+\* Working on 5D,7D.....red
 
-\* Lighting up
-your shots
+\* Lighting up your shots
 
 \*Types of lights
 
-\* Types of
-filters
+\* Types of filters
 
-\* Live set
-experience
+\* Live set experience
 
-\* Setting up
-the shot
+\* Setting up the shot
 
 ****
 
 **Story Boarding Day 7**
 
-\* Why story
-boarding/ your first visuals
+\* Why story boarding/ your first visuals
 
-\* A picture is
-worth a thousand words
+\* A picture is worth a thousand words
 
-\* Sketching
-basics, working with the artists
+\* Sketching basics, working with the artists
 
-\* Planning your
-storyboard
+\* Planning your storyboard
 
 ****
 
 **Actors and casting for the film Day 8**
 
-\* Casting for
-traits, Skills
+\* Casting for traits, Skills
 
-\* Working with
-your actors don't show, tell
+\* Working with your actors don't show, tell
 
-\* Talking to
-your actors
+\* Talking to your actors
 
-\* Improvising and
-evolution
+\* Improvising and evolution
 
 \* Rehearsals
 
@@ -190,30 +141,20 @@ evolution
 
 **Editing techniques and formats Day 9**
 
-\* Manipulation
-of time
+\* Manipulation of time
 
-\* Types of
-transitions and their meanings
+\* Types of transitions and their meanings
 
 \* Directors cut
 
-\*Cutting
-objectively
+\*Cutting objectively
 
 ****
 
-**Shooting and editing the project film
-Day 10/11/12**
+**Shooting and editing the project film Day 10/11/12**
 
-This will be a paid training workshop
-on a live project. Fees Rs. 30,000
+This will be a paid training workshop on a live project. Fees Rs. 30,000
 
-The group will also meet at least
-once on week days for a couple of hours in the evening on a
-decided day , time and location
+The group will also meet at least once on week days for a couple of hours in the evening on a decided day , time and location
 
-The program will be conducted by Jay
-Gholap Alumnus New York Film Academy. Currently working as a script consultant
-, Documentary and corporate filmmaker. Previous experience
-includes AD to Ram Gopal Verma.
+The program will be conducted by Jay Gholap Alumnus New York Film Academy. Currently working as a script consultant , Documentary and corporate filmmaker. Previous experience includes AD to Ram Gopal Verma.

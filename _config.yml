@@ -1,20 +1,8 @@
-title: The Open Film School
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.5574468
-favicon: null
 name: The  Open  Film  School
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.37274
+typography_spectrum: 0
+title: The Open Film School
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  saturation: 0
   brandColors:
     - '#000606'
     - '#880400'
     - '#008a01'
     - '#e54400'
     - '#c5bd02'
+  brandStrength: 0
   lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.5
-typography_spectrum: 0
+purpose: []

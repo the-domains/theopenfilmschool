@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Did you know that of all the directors, writers, editors, cinematographers, executive producers and\_"
-datePublished: '2016-04-15T14:11:36.102Z'
-dateModified: '2016-04-15T14:10:03.851Z'
+description: ''
+datePublished: '2016-04-20T09:59:44.518Z'
+dateModified: '2016-04-19T12:21:43.326Z'
 title: Femmes Cinéastes - 6 Weekend Filmmaking Workshop For Women
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-15-femmes-cineastes-6-weekend-filmmaking-workshop-for-women.md
 published: true
 authors: []
@@ -23,27 +25,15 @@ _type: Article
 
 ---
 # Femmes Cinéastes - 6 Weekend Filmmaking Workshop For Women
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b451727-f8c5-43b6-b700-ef752405c0d1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c170e5bd-bcb3-43cb-9544-e4b9d544181b.png)
 
-Did you know that of all the directors, writers, editors, cinematographers, executive producers and 
+# 
 
-producers who worked on the top 250 domestic grossing films of 2015, only 19% were women? Here at The Open Film School
+# 
 
-, we are committed to mentoring aspiring filmmakers and our next workshop is designed 
+# Did you know that of all the directors, writers, editors,cinematographers, executive producers and producers who worked on the top 250 domestic grossing films of 2015, only 19% were women? Here at The Open Film School, we are committed to mentoring aspiring filmmakers and our next workshop is designed exclusively for women. Our Femmes Cinéastes workshop for women spread over a period of 6 weekends is ideal for people who must juggle their filmmaking passion with work life. Designed for beginners, Femmes Cinéastes offers participants training in screenwriting, story boarding, casting, direction, production design , cinematography, sound recording, editing, VFX and online film promotion.
 
-exclusively for women. 
-
-Our Femmes Cinéastes workshop for women spread over a period of 6 weekends is ideal for people who 
-
-must juggle their filmmaking passion with work life. 
-
-Designed for beginners, Femmes Cinéastes offers participants training in screenwriting, story boarding, 
-
-casting, direction, production design , cinematography, sound recording, editing, VFX and online film 
-
-promotion.
-
-The participants will be made to produce a short film each towards the end of the program. Each participant will also get to work on 3 other short films in various crew positions. 
+> The participants will be made to produce a short film each towards the end of the program. Each participant will also get to work on 3 other short films in various crew positions.
 
 **Fee Rs. 30,000**
 

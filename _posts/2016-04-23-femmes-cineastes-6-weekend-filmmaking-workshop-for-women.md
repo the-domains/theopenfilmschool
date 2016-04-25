@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T16:10:22.701Z'
-dateModified: '2016-04-25T13:36:31.378Z'
+datePublished: '2016-04-25T16:10:44.707Z'
+dateModified: '2016-04-25T16:10:24.587Z'
 title: Femmes Cinéastes - 6 Weekend Filmmaking Workshop For Women
 author:
   - name: ''
@@ -29,7 +29,6 @@ _type: Article
 
 ## Did you know that of all the directors, writers, editors,cinematographers, executive producers and producers who worked on the top 250 domestic grossing films of 2015, only 19% were women? Here at The Open Film School, we are committed to mentoring aspiring filmmakers and our next workshop is designed exclusively for women.
 
-  
   
 _Our Femmes Cinéastes workshop for women spread over a period of 6 weekends is ideal for people who must juggle their filmmaking passion with work life. _
 

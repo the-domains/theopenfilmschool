@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T16:13:54.998Z'
-dateModified: '2016-04-25T16:10:55.745Z'
+datePublished: '2016-04-28T10:56:08.331Z'
+dateModified: '2016-04-25T18:09:53.293Z'
 title: Femmes Cinéastes - 6 Weekend Filmmaking Workshop For Women
 author:
   - name: ''

@@ -8,8 +8,8 @@ description: >-
   Storytelling lies at the heart of most documentaries - strong characters,
   compelling tension, and a credible resolution. Join us to understand the
   basics of Documentary Film-making.
-datePublished: '2016-07-15T06:44:06.172Z'
-dateModified: '2016-07-15T06:44:02.239Z'
+datePublished: '2016-07-15T06:44:58.363Z'
+dateModified: '2016-07-15T06:44:57.009Z'
 title: Documentary Storytelling
 author:
   - name: ''
@@ -24,8 +24,6 @@ _type: WebPage
 ---
 # Documentary Storytelling
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f932e1a-0cf9-4987-92b8-83847568c499.png)
-
-# 
 
 Storytelling lies at the heart of most documentaries - strong characters, compelling tension, and a credible resolution. Join us to understand the basics of Documentary Film-making.
 

@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -8,8 +8,8 @@ description: >-
   Participants will be assigned various positions on the project and will be
   given a credit on the final film. The month long training workshop will
   culminate into a short film and will be screened at various festivals.
-datePublished: '2016-06-14T16:28:26.836Z'
-dateModified: '2016-06-14T16:28:18.237Z'
+datePublished: '2016-07-15T06:46:29.973Z'
+dateModified: '2016-07-15T06:45:45.263Z'
 title: Total Filmmaking
 author: []
 sourcePath: _posts/2016-04-15-total-filmmaking.md
@@ -17,7 +17,7 @@ authors: []
 publisher: null
 starred: false
 url: total-filmmaking/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Total Filmmaking

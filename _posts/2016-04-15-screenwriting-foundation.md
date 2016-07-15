@@ -1,25 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Screenwriting is the soul of filmmaking. It all begins  with a screenplay a story that is written as a blueprint for a film.
-datePublished: '2016-04-15T08:53:33.346Z'
-dateModified: '2016-04-15T08:53:18.554Z'
-title: 'Screenwriting Foundation '
+description: ''
+datePublished: '2016-07-15T06:43:11.887Z'
+dateModified: '2016-07-15T06:43:05.201Z'
+title: Screenwriting Foundation
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-15-screenwriting-foundation.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: screenwriting-foundation/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Screenwriting Foundation
@@ -27,23 +22,17 @@ _type: Article
 
 ****
 
-**S**creenwriting is the soul of filmmaking. It all begins with a screenplay, a story written as a blueprint
-for a film.
+**S**creenwriting is the soul of filmmaking. It all begins with a screenplay, a story written as a blueprint for a film.
 
-Have you ever walked out of a movie theater and said, "I think I could probably write something better than that"? In fact, a great movie idea can be difficult to come up with and a great screenplay can almost
-be even more difficult to write. Writing for the screen, especially the
+Have you ever walked out of a movie theater and said, "I think I could probably write something better than that"? In fact, a great movie idea can be difficult to come up with and a great screenplay can almost be even more difficult to write. Writing for the screen, especially the
 
-big screen,
-means you're composing something meant for a visual medium. And though it can be difficult to do well,
-a great screenplay has the power to be transformative for your viewers.
+big screen, means you're composing something meant for a visual medium. And though it can be difficult to do well, a great screenplay has the power to be transformative for your viewers.
 
-This Workshop covers two
-major perspectives of
+This Workshop covers two major perspectives of
 
 Screenwriting:
 
-Scriptwriting - The
-Technique
+Scriptwriting - The Technique
 
 Scriptwriting - An Art
 
@@ -55,12 +44,11 @@ DAY 1 :
 
 • Why are movie stories special?
 
-• The difference between
-Story and Plot
+• The difference between Story and Plot
 
 DAY 2 :
 
-•  How movies handle story
+• How movies handle story
 
 • The three main approaches to Screenplay Structure:
 
@@ -78,15 +66,10 @@ Structure & The Hero's Journey
 
 Includes:
 
-1\. Workshop Material: 1
-Study Script, Script Format,Original
-Story used to    Adapt to Script
+1\. Workshop Material: 1 Study Script, Script Format,Original Story used to Adapt to Script
 
-2\. Certificate of
-Completion (This will only be issued once all assignments are completed, submitted and approved)
+2\. Certificate of Completion (This will only be issued once all assignments are completed, submitted and approved)
 
-3\. Opportunity to work
-with/assist Jay on a Short Film
+3\. Opportunity to work with/assist Jay on a Short Film
 
-4\. Eligibility to attend
-Advanced Script writing Courses with
+4\. Eligibility to attend Advanced Script writing Courses with

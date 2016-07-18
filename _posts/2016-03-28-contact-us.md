@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road '
-datePublished: '2016-07-18T14:27:53.576Z'
-dateModified: '2016-07-18T14:06:47.009Z'
+datePublished: '2016-07-18T14:29:19.354Z'
+dateModified: '2016-07-18T14:28:34.148Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-28-contact-us.md
@@ -17,9 +17,9 @@ url: contact-us/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f916d99-e612-4929-b674-d126b7a71941.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6acdda1-bc7e-4319-8909-51aabb5223a8.png)
 
-[**Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road **][0]
+**[Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road][0]**
 
 [**Basavangudi, Bangalore Landmark - KFC **][0]
 

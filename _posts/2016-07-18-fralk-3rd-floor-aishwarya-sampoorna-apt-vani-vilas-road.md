@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road'
-datePublished: '2016-07-18T15:03:26.092Z'
-dateModified: '2016-07-18T15:03:19.907Z'
+datePublished: '2016-07-18T15:05:01.553Z'
+dateModified: '2016-07-18T15:05:00.178Z'
 title: ''
 author:
   - name: ''
@@ -14,9 +14,9 @@ author:
 sourcePath: _posts/2016-07-18-fralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: fralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ece1963-f156-4e1c-bfee-d964b83f03cc.jpg)

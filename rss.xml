@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Open Film School]]></title>
+        <description><![CDATA[The Open Film School]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 12:04:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Documentary Storytelling]]></title>
+            <description><![CDATA[<article><h1>Documentary Storytelling</h1><p>Storytelling lies at the heart of most documentaries - strong characters, compelling tension, and a credible resolution. Join us to understand the basics of Documentary Film-making.</p></article>]]></description>
+            <link>undefineddocumentary-storytelling/index.html</link>
+            <guid isPermaLink="false">aa8a1ea0-29c3-449a-8224-d7adb925e58c</guid>
+            <pubDate>Wed, 20 Jul 2016 12:04:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

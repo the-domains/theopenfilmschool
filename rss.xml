@@ -4,7 +4,7 @@
         <description><![CDATA[The Open Film School]]></description>
         <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 12:25:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/theopenfilmschool/fralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road/index.html</link>
             <guid isPermaLink="false">ed44e755-e9a9-4eb6-ad77-938215ccdc4e</guid>
             <pubDate>Wed, 20 Jul 2016 12:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documentary Storytelling]]></title>
-            <description><![CDATA[<article><h1>Documentary Storytelling</h1><p>Storytelling lies at the heart of most documentaries - strong characters, compelling tension, and a credible resolution. Join us to understand the basics of Documentary Film-making.</p></article>]]></description>
-            <link>https://thegrid.ai/theopenfilmschool/documentary-storytelling/index.html</link>
-            <guid isPermaLink="false">aa8a1ea0-29c3-449a-8224-d7adb925e58c</guid>
-            <pubDate>Wed, 20 Jul 2016 12:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

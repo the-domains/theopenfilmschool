@@ -4,7 +4,7 @@
         <description><![CDATA[The Open Film School]]></description>
         <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 12:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/theopenfilmschool/fralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road/index.html</link>
             <guid isPermaLink="false">ed44e755-e9a9-4eb6-ad77-938215ccdc4e</guid>
             <pubDate>Wed, 20 Jul 2016 12:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c25e6c-3c56-415d-9334-19bd11c3810b.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/92c25e6c-3c56-415d-9334-19bd11c3810b.png</link>
+            <guid isPermaLink="false">5d80a1a2-a21a-4129-a8f2-011579045210</guid>
+            <pubDate>Sat, 30 Jul 2016 12:07:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

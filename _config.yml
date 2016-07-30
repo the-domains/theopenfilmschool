@@ -34,8 +34,8 @@ color:
     - '#c52378'
     - '#0064a0'
     - '#000000'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []

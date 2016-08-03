@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Open Film School]]></title>
         <description><![CDATA[The Open Film School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 20:24:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 08:57:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a592db7-d62d-4805-a2f7-11e81328826b.jpg">]]></description>
-            <link>undefinedfralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road/index.html</link>
+            <link>https://thegrid.ai/theopenfilmschool/fralk-3rd-floor-aishwarya-sampoorna-apt-vani-vilas-road/index.html</link>
             <guid isPermaLink="false">a47edcc2-c2fe-4eeb-9db8-f6ffe9ed8c4c</guid>
-            <pubDate>Sat, 30 Jul 2016 20:24:00 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 08:57:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

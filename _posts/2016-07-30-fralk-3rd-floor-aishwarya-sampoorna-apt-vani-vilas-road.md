@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road'
-datePublished: '2016-08-03T08:58:54.301Z'
-dateModified: '2016-08-03T08:58:26.862Z'
+datePublished: '2016-08-03T08:59:13.451Z'
+dateModified: '2016-08-03T08:58:56.360Z'
 title: ''
 author: []
 via: {}
@@ -24,12 +24,12 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a592db7-d62d-4805-a2f7-11e81328826b.jpg)
 
-_**[Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road][0]**_
+[Fralk, 3rd Floor. Aishwarya Sampoorna Apt., Vani Vilas Road][0]
 
-_[**Basavangudi, Bangalore Landmark - KFC**][0]_
+[Basavangudi, Bangalore Landmark - KFC][0]
 
-_[**+91 9619595411**][0]_
+[+91 9619595411][0]
 
-_**[theopenfilmschool@gmail.com][0]**_
+[theopenfilmschool@gmail.com][0]
 
 [0]: https://app.thegrid.io/posts/ed44e755-e9a9-4eb6-ad77-938215ccdc4e/null

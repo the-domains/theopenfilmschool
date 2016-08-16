@@ -1,23 +1,23 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
   Fascinated by world cinema, Jay Gholap decided to quit Bollywood films and
   develop his own world view of what cinema should be.
-datePublished: '2016-08-16T07:47:58.962Z'
-dateModified: '2016-08-16T07:47:36.971Z'
+datePublished: '2016-08-16T14:25:44.123Z'
+dateModified: '2016-08-16T10:51:39.588Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-16-jay-gholap.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-16-jay-gholap.md
+starred: true
 url: jay-gholap/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b89904-b349-42f2-9859-fa2a5e164d18.jpg)

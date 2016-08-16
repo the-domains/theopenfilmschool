@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Open Film School]]></title>
         <description><![CDATA[The Open Film School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theopenfilmschool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 07:21:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Aug 2016 10:41:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theopenfilmschool/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Documentary Storytelling]]></title>
+            <description><![CDATA[<article><h1>Documentary Storytelling</h1><p>Storytelling lies at the heart of most documentaries - strong characters, compelling tension, and a credible resolution. Join us to understand the basics of Documentary Film-making.</p></article>]]></description>
+            <link>https://thegrid.ai/theopenfilmschool/documentary-storytelling/index.html</link>
+            <guid isPermaLink="false">aa8a1ea0-29c3-449a-8224-d7adb925e58c</guid>
+            <pubDate>Tue, 16 Aug 2016 10:41:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bb2b06-d9e9-445e-b525-78239641abb1.jpg">]]></description>
-            <link>undefined91-9619595411/index.html</link>
+            <link>https://thegrid.ai/theopenfilmschool/91-9619595411/index.html</link>
             <guid isPermaLink="false">47a0d587-5e95-4ce9-b3d9-68c88508a5a0</guid>
             <pubDate>Tue, 09 Aug 2016 07:21:20 GMT</pubDate>
         </item>

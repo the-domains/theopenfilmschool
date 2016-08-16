@@ -1,15 +1,15 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Storytelling lies at the heart of most documentaries - strong characters,
   compelling tension, and a credible resolution. Join us to understand the
   basics of Documentary Film-making.
-datePublished: '2016-08-16T10:41:25.282Z'
-dateModified: '2016-08-09T09:00:13.219Z'
+datePublished: '2016-08-16T10:56:33.742Z'
+dateModified: '2016-08-16T10:56:05.008Z'
 title: Documentary Storytelling
 author:
   - name: ''
@@ -18,7 +18,7 @@ sourcePath: _posts/2016-04-15-documentary-storytelling.md
 via: {}
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: documentary-storytelling/index.html
 _type: Article
 

@@ -1,25 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T11:38:36.908Z'
-dateModified: '2016-08-16T10:51:12.663Z'
+datePublished: '2016-08-23T10:55:51.971Z'
+dateModified: '2016-08-23T10:55:50.772Z'
 title: Screenwriting Foundation
 author: []
 sourcePath: _posts/2016-04-15-screenwriting-foundation.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 via: {}
-starred: true
+authors: []
+publisher: {}
+starred: false
 url: screenwriting-foundation/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Screenwriting Foundation

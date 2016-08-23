@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Documentary Storytelling
+  - name: 'Documentary '
     id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
     type: content
   - name: Screenwriting

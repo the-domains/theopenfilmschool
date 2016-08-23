@@ -31,6 +31,9 @@ navigation:
   - name: Screenwriting
     id: a6387259-4974-4fa9-b705-44df17fc1956
     type: content
+  - name: Total Filmmaking
+    id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
+    type: content
 favicon: null
 collections:
   - index:

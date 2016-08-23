@@ -1,36 +1,32 @@
 ---
+datePublished: '2016-08-23T17:03:50.945Z'
+sourcePath: _posts/2016-04-15-total-filmmaking.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T17:03:48.778Z'
+title: Total Filmmaking
+publisher: {}
 description: >-
   Participants will be assigned various positions on the project and will be
   given a credit on the final film. The month long training workshop will
   culminate into a short film and will be screened at various festivals.
-datePublished: '2016-08-23T10:57:06.838Z'
-dateModified: '2016-08-23T10:57:05.464Z'
-title: Total Filmmaking
-author: []
-sourcePath: _posts/2016-04-15-total-filmmaking.md
-via: {}
-authors: []
-publisher: {}
+inLanguage: null
+inNav: true
 starred: false
 url: total-filmmaking/index.html
 _type: WebPage
 
 ---
 # Total Filmmaking
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d63a4160-f76c-43b0-9eef-a39bf7d71fa3.png)
-
-# ****
-
-**T**he Open Film School is offering a unique On the project training workshop. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography, Sound Recording, Editing and Online film promotion. The participants will get an opportunity to work on a live project aimed at various film festivals. An ideal learning space for beginner filmmakers.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1a000bd-b713-45e0-90b9-bfa697293117.jpg)
 
 Participants will be assigned various positions on the project and will be given a credit on the final film. The month long training workshop will culminate into a short film and will be screened at various festivals.
 
-****
+**T**he Open Film School is offering a unique On the project training workshop. Over a month participants will receive training on : Screenwriting, Story boarding, casting, Direction, cinematography, Sound Recording, Editing and Online film promotion. The participants will get an opportunity to work on a live project aimed at various film festivals. An ideal learning space for beginner filmmakers.
 
 **How to Read a film /Production process/ Day 1**
 
@@ -47,8 +43,6 @@ Participants will be assigned various positions on the project and will be given
 \* Broad classification of films
 
 \*Who makes it happen- the talent , the production process
-
-****
 
 **Writing for film/ screen play structure/ screenplay format Day 2/3**
 
@@ -68,8 +62,6 @@ Participants will be assigned various positions on the project and will be given
 
 \* Types of Scripts
 
-****
-
 **Understanding your characters Day 4**
 
 \* The Hero's journey
@@ -83,8 +75,6 @@ Participants will be assigned various positions on the project and will be given
 \* Building your characters
 
 \* Writing the Screenplay
-
-****
 
 **Concept finalisation Camera basics Day 5/6**
 
@@ -110,8 +100,6 @@ Participants will be assigned various positions on the project and will be given
 
 \* Setting up the shot
 
-****
-
 **Story Boarding Day 7**
 
 \* Why story boarding/ your first visuals
@@ -121,8 +109,6 @@ Participants will be assigned various positions on the project and will be given
 \* Sketching basics, working with the artists
 
 \* Planning your storyboard
-
-****
 
 **Actors and casting for the film Day 8**
 
@@ -136,8 +122,6 @@ Participants will be assigned various positions on the project and will be given
 
 \* Rehearsals
 
-****
-
 **Editing techniques and formats Day 9**
 
 \* Manipulation of time
@@ -147,8 +131,6 @@ Participants will be assigned various positions on the project and will be given
 \* Directors cut
 
 \*Cutting objectively
-
-****
 
 **Shooting and editing the project film Day 10/11/12**
 

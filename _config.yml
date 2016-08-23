@@ -34,6 +34,9 @@ navigation:
   - name: Total Filmmaking
     id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
     type: content
+  - name: About Us
+    id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
+    type: content
 favicon: null
 collections:
   - index:

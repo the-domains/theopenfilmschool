@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T08:29:34.097Z'
+datePublished: '2016-08-24T08:32:23.552Z'
 sourcePath: >-
   _posts/2016-08-24-the-open-film-school-is-a-philosophy-that-looks-at-the-filmm.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:29:33.129Z'
+dateModified: '2016-08-24T08:32:23.441Z'
 title: ''
 publisher: {}
 description: >-

@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T08:29:17.435Z'
+datePublished: '2016-08-24T08:29:34.097Z'
 sourcePath: >-
   _posts/2016-08-24-the-open-film-school-is-a-philosophy-that-looks-at-the-filmm.md
 author: []
 via: {}
-dateModified: '2016-08-24T08:28:51.618Z'
+dateModified: '2016-08-24T08:29:33.129Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   encourages the aspiring filmmaker to develop their own worldview. It is an
   initiation into magical world of cinema that paves the path for you to become
   its student and practitioner for life.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

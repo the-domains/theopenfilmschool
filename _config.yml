@@ -37,7 +37,8 @@ navigation:
   - name: About Us
     id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e794053b-315f-4ece-ada8-ea77a4001070.jpg
 collections:
   - index:
       navigable: true

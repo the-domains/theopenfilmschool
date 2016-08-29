@@ -13,7 +13,7 @@ color:
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: 'https://www.facebook.com/theopenfilmschool/'
 layout_spectrum: 0.6488942075520754
 analytics:
   google: null

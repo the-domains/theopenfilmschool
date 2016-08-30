@@ -1,4 +1,5 @@
-typography_spectrum: 0.2199795914348215
+layout_spectrum: 0.06348667060956359
+typography_spectrum: 0.5241295790765435
 color:
   brandColors:
     - '#FFFFFF'
@@ -14,7 +15,6 @@ opengraph:
   image: null
   type: null
   appId: 'https://www.facebook.com/theopenfilmschool/'
-layout_spectrum: 0.6488942075520754
 analytics:
   google: null
   facebook: null

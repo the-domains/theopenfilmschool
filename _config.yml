@@ -1,20 +1,20 @@
-typography_spectrum: 0.975020311307162
+layout_spectrum: 0.4563593491911888
+typography_spectrum: 0.6552624448668212
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.32302755815908313
-  lightness: 0.9904217375442386
-  saturation: 0.31603349349461496
-  rhythmicContrast: 0.19927296438254416
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.39960410562343895
+  lightness: 0.9172166467178613
+  saturation: 0.330690547125414
+  rhythmicContrast: 0.5655816837679595
 opengraph:
   image: null
   type: null
   appId: 'https://www.facebook.com/theopenfilmschool/'
-layout_spectrum: 0.4563593491911888
 analytics:
   google: null
   facebook: null

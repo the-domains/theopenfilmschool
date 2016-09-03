@@ -1,44 +1,35 @@
+description: For the love of filmmaking
+title: The Open Film School
+navigation:
+  - id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
+    name: 'Documentary '
+    type: content
+  - id: a6387259-4974-4fa9-b705-44df17fc1956
+    name: Screenwriting
+    type: content
+  - id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
+    name: Total Filmmaking
+    type: content
+  - id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
+    name: About Us
+    type: content
+cta:
+  version: null
+  bucket: null
+  domain: null
 layout_spectrum: 0.4563593491911888
-typography_spectrum: 0.07788770576007664
-color:
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.2813349710777402
-  lightness: 0.3345064220484346
-  saturation: 0.16961838072165847
-  rhythmicContrast: 0.28111367765814066
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
+name: The  Open  Film  School
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: 'https://www.facebook.com/theopenfilmschool/'
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: The  Open  Film  School
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: 'Documentary '
-    id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
-    type: content
-  - name: Screenwriting
-    id: a6387259-4974-4fa9-b705-44df17fc1956
-    type: content
-  - name: Total Filmmaking
-    id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
-    type: content
-  - name: About Us
-    id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
 collections:
   - index:
       navigable: true
@@ -51,6 +42,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: The Open Film School
-description: For the love of filmmaking
-purpose: []
+color:
+  brandStrength: 0.2813349710777402
+  lightness: 0
+  saturation: 0.1696184
+  rhythmicContrast: 0.2811137
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+typography_spectrum: 0.07788770576007664

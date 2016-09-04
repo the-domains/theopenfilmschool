@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Open Film School]]></title>
-        <description><![CDATA[The Open Film School]]></description>
+        <title><![CDATA[The  Open  Film  School]]></title>
+        <description><![CDATA[The  Open  Film  School]]></description>
         <link>http://theopenfilmschool.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 16:43:14 GMT</lastBuildDate>
         <atom:link href="http://theopenfilmschool.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>+91 9619595411</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69483e16-d1e5-46cb-840f-624f20c27240.jpg"></article>]]></description>
             <link>http://theopenfilmschool.com/91-9619595411/index.html</link>
             <guid isPermaLink="false">47a0d587-5e95-4ce9-b3d9-68c88508a5a0</guid>
-            <pubDate>Thu, 01 Sep 2016 13:40:27 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 16:43:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,4 +1,3 @@
-layout_spectrum: 0.25460658874362707
 typography_spectrum: 0.3917598647531122
 color:
   brandStrength: 0.2502894848585129
@@ -11,37 +10,35 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-description: For the love of filmmaking
-title: The Open Film School
-navigation:
-  - id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
-    name: 'Documentary '
-    type: content
-  - id: a6387259-4974-4fa9-b705-44df17fc1956
-    name: Screenwriting
-    type: content
-  - id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
-    name: Total Filmmaking
-    type: content
-  - id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
-    name: About Us
-    type: content
-cta:
-  version: null
-  bucket: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
-name: The  Open  Film  School
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 opengraph:
   image: null
   type: null
   appId: 'https://www.facebook.com/theopenfilmschool/'
+layout_spectrum: 0.25460658874362707
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The  Open  Film  School
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - name: 'Documentary '
+    id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
+    type: content
+  - name: Screenwriting
+    id: a6387259-4974-4fa9-b705-44df17fc1956
+    type: content
+  - name: Total Filmmaking
+    id: 666ea6f1-cac6-45e7-8413-7fdbc44bbde3
+    type: content
+  - name: About Us
+    id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
 collections:
   - index:
       navigable: true
@@ -54,3 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: ''
+description: For the love of filmmaking
+purpose: []

@@ -36,12 +36,12 @@ navigation:
   - name: 'Documentary '
     id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
     type: content
-  - name: About Us
-    id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
-    type: content
   - name: Conatct Form
     url: 'http://www.123contactform.com/form-2171131/Contact-Lead-Form'
     type: external
+  - name: About Us
+    id: 990b0e4d-6bb6-4029-bd58-fbf0c03209c1
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
 collections:

@@ -53,6 +53,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: The Open Film School
+title: ''
 description: Every great love begins with a story
 purpose: []

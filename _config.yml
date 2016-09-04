@@ -36,7 +36,7 @@ navigation:
   - name: 'Documentary '
     id: aa8a1ea0-29c3-449a-8224-d7adb925e58c
     type: content
-  - name: Conatct Form
+  - name: Contact Form
     url: 'http://www.123contactform.com/form-2171131/Contact-Lead-Form'
     type: external
   - name: About Us

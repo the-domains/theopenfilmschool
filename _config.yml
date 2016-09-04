@@ -1,3 +1,16 @@
+layout_spectrum: 0.49027215503156185
+typography_spectrum: 0.6176551675889641
+color:
+  brandStrength: 0.278983804397285
+  lightness: 0.11515487148426473
+  saturation: 0.10183904692530632
+  rhythmicContrast: 0.1556463970337063
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 description: For the love of filmmaking
 title: The Open Film School
 navigation:
@@ -17,7 +30,6 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.4563593491911888
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e3f56a4-ebba-454c-a21e-9e6b038cca4c.jpg
 name: The  Open  Film  School
@@ -42,15 +54,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.2813349710777402
-  lightness: 0
-  saturation: 0.1696184
-  rhythmicContrast: 0.2811137
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-typography_spectrum: 0.07788770576007664

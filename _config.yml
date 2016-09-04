@@ -1,16 +1,16 @@
 layout_spectrum: 0.49027215503156185
-typography_spectrum: 0.3184486464597285
+typography_spectrum: 0.3569241298828274
 color:
-  brandStrength: 0.5570140797644854
-  lightness: 0.9208652735687792
-  saturation: 0.12671939842402935
-  rhythmicContrast: 0.8163395423907787
+  brandStrength: 0.2502894848585129
+  lightness: 0.550281381001696
+  saturation: 0.5759696515742689
+  rhythmicContrast: 0.6786673308815807
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 description: For the love of filmmaking
 title: The Open Film School
 navigation:

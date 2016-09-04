@@ -53,6 +53,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: TOFS
+title: ''
 description: ' Artists are people who do things with images in order to understand the world'
 purpose: []
